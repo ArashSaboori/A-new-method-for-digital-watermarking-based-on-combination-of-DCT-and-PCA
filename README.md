@@ -1,6 +1,6 @@
- @Time    : 2016/1/20
- @Author  : Arash Saboori 
- @Email   : arash.saboori@srbiau.ac.ir  &    arashsaboori67@gmail.com
+ \Time    : 2016/1/20
+ \Author  : Arash Saboori 
+ \Email   : arash.saboori@srbiau.ac.ir  &    arashsaboori67@gmail.com
 ==============================================================================
 Please Refer to following papers, if you use this code:
 \begin{}
