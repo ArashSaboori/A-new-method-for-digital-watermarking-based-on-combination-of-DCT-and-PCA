@@ -16,12 +16,12 @@ Please Refer to following papers, if you use this code:
 
 [4] S. Abolfazl Hosseini and A. Saboori, "A new method for color image watermarking based on combination of DCT and PCA,"2015 International Conference on Communications, Signal Processing, and their Applications (ICCSPA'15), Sharjah, 2015, pp. 1-5.  % Written by: Arash Saboori 
 
-==============================================================================
+=========================================================================
 ##  Environment & Main Dependencies
 
 >Matlab
 
-==============================================================================
+=========================================================================
 ##  Usage
 
 * Download data 
