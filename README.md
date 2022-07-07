@@ -4,7 +4,7 @@ Author  : Arash Saboori
 
 Email   : arash.saboori@srbiau.ac.ir  &    arashsaboori67@gmail.com
 
-==============================================================================
+====================================================================
 
 Please Refer to following papers, if you use this code:
 
